@@ -1,0 +1,157 @@
+com/doom/database/MongoDbDataSource.java
+ com.doom.database.MongoDbDataSource
+com/doom/commands/commands/Games/HangManCommand.java
+ com.doom.commands.commands.Games.HangManCommand
+com/doom/commands/commands/Others/DeathWishCommand.java
+ com.doom.commands.commands.Others.DeathWishCommand
+com/doom/commands/commands/Utils/UtilString.java
+ com.doom.commands.commands.Utils.UtilString
+com/doom/commands/commands/Games/RobCommand.java
+ com.doom.commands.commands.Games.RobCommand
+com/doom/commands/commands/Games/NumberCommand.java
+ com.doom.commands.commands.Games.NumberCommand
+com/doom/commands/commands/Info/InfoServerCommand.java
+ com.doom.commands.commands.Info.InfoServerCommand
+com/doom/commands/commands/ReactionRolePrivate/ReactionRolePrivateCommand.java
+ com.doom.commands.commands.ReactionRolePrivate.ReactionRolePrivateCommand
+com/doom/commands/commands/Others/AddRoleCommand.java
+ com.doom.commands.commands.Others.AddRoleCommand
+com/doom/commands/commands/Money/ShareCommand.java
+ com.doom.commands.commands.Money.ShareCommand
+com/doom/commands/commands/Others/MemeCommand.java
+ com.doom.commands.commands.Others.MemeCommand
+com/doom/commands/commands/Others/AddToServer.java
+ com.doom.commands.commands.Others.AddToServer
+com/doom/commands/commands/Others/JokeCommand.java
+ com.doom.commands.commands.Others.JokeCommand
+com/doom/commands/commands/Pro/ProCommand.java
+ com.doom.commands.commands.Pro.ProCommand
+com/doom/commands/commands/admin/Prefix.java
+ com.doom.commands.commands.admin.Prefix
+com/doom/commands/commands/Others/SayCommand.java
+ com.doom.commands.commands.Others.SayCommand
+com/doom/commands/commands/Others/BanCommand.java
+ com.doom.commands.commands.Others.BanCommand
+com/doom/commands/commands/Others/ServerCommand.java
+ com.doom.commands.commands.Others.ServerCommand
+com/doom/commands/commands/Fonts/WebGetter.java
+ com.doom.commands.commands.Fonts.WebGetter
+com/doom/database/DatabaseManager.java
+ com.doom.database.DatabaseManager
+com/doom/commands/commands/Others/PruneCommand.java
+ com.doom.commands.commands.Others.PruneCommand
+com/doom/commands/commands/Others/AvatarCommand.java
+ com.doom.commands.commands.Others.AvatarCommand
+com/doom/commands/commands/Others/PollCommand.java
+ com.doom.commands.commands.Others.PollCommand
+com/doom/commands/commands/Money/MoneyData.java
+ com.doom.commands.commands.Money.MoneyData
+com/doom/commands/commands/Others/EightballCommand.java
+ com.doom.commands.commands.Others.EightballCommand
+com/doom/commands/commands/Info/InfoUserCommand.java
+ com.doom.commands.commands.Info.InfoUserCommand
+ com.doom.commands.commands.Info.InfoUserCommand$1
+com/doom/commands/commands/Others/SoftBanCommand.java
+ com.doom.commands.commands.Others.SoftBanCommand
+com/doom/commands/commands/Shop/ShopCommand.java
+ com.doom.commands.commands.Shop.ShopCommand
+com/doom/database/SQLiteDataSource.java
+ com.doom.database.SQLiteDataSource
+com/doom/commands/commands/Money/BalanceBankCommand.java
+ com.doom.commands.commands.Money.BalanceBankCommand
+com/doom/Config.java
+ com.doom.Config
+com/doom/commands/commands/Others/ServerListCommand.java
+ com.doom.commands.commands.Others.ServerListCommand
+com/doom/commands/commands/Pro/ProData.java
+ com.doom.commands.commands.Pro.ProData
+com/doom/commands/commands/Games/GuessNumber.java
+ com.doom.commands.commands.Games.GuessNumber
+com/doom/commands/commands/Money/WithdrawCommand.java
+ com.doom.commands.commands.Money.WithdrawCommand
+com/doom/commands/commands/Others/BadDesign.java
+ com.doom.commands.commands.Others.BadDesign
+com/doom/commands/commands/Emoji/Emoji.java
+ com.doom.commands.commands.Emoji.Emoji
+ com.doom.commands.commands.Emoji.Emoji$Unicode
+com/doom/commands/commands/admin/SetPrefixCommand.java
+ com.doom.commands.commands.admin.SetPrefixCommand
+com/doom/commands/CommandContext.java
+ com.doom.commands.CommandContext
+com/doom/commands/commands/Fonts/AsciiCommand.java
+ com.doom.commands.commands.Fonts.AsciiCommand
+com/doom/commands/commands/Others/DeafenCommand.java
+ com.doom.commands.commands.Others.DeafenCommand
+com/doom/commands/commands/Games/GameCommand.java
+ com.doom.commands.commands.Games.GameCommand
+com/doom/commands/commands/Utils/UtilBot.java
+ com.doom.commands.commands.Utils.UtilBot
+ com.doom.commands.commands.Utils.UtilBot$1
+com/doom/commands/commands/ReactionRole/ReactionRoleData.java
+ com.doom.commands.commands.ReactionRole.ReactionRoleData
+com/doom/commands/commands/trivia/TriviaCommand.java
+ com.doom.commands.commands.trivia.TriviaCommand
+com/doom/commands/commands/Shop/SellCommand.java
+ com.doom.commands.commands.Shop.SellCommand
+com/doom/commands/commands/Others/PingCommand.java
+ com.doom.commands.commands.Others.PingCommand
+com/doom/commands/commands/Emoji/EmojiCommand.java
+ com.doom.commands.commands.Emoji.EmojiCommand
+com/doom/commands/commands/Info/ModsCommand.java
+ com.doom.commands.commands.Info.ModsCommand
+com/doom/commands/commands/Others/PasteCommand.java
+ com.doom.commands.commands.Others.PasteCommand
+com/doom/commands/commands/Games/RPSCommand.java
+ com.doom.commands.commands.Games.RPSCommand
+com/doom/commands/commands/Math/MathCommand.java
+ com.doom.commands.commands.Math.MathCommand
+com/doom/database/FilePath.java
+ com.doom.database.FilePath
+com/doom/commands/commands/Others/Clear.java
+ com.doom.commands.commands.Others.Clear
+com/doom/commands/commands/Others/WebhookCommand.java
+ com.doom.commands.commands.Others.WebhookCommand
+com/doom/commands/commands/Shop/InventoryCommand.java
+ com.doom.commands.commands.Shop.InventoryCommand
+com/doom/commands/commands/Shop/ShopData.java
+ com.doom.commands.commands.Shop.ShopData
+com/doom/commands/commands/Utils/UtilNum.java
+ com.doom.commands.commands.Utils.UtilNum
+com/doom/commands/commands/Money/BankCommand.java
+ com.doom.commands.commands.Money.BankCommand
+com/doom/commands/commands/ReactionRole/ReactionRoleCommand.java
+ com.doom.commands.commands.ReactionRole.ReactionRoleCommand
+com/doom/commands/commands/Games/Game.java
+ com.doom.commands.commands.Games.Game
+com/doom/commands/commands/Others/KickCommand.java
+ com.doom.commands.commands.Others.KickCommand
+com/doom/commands/ICommand.java
+ com.doom.commands.ICommand
+com/doom/commands/commands/Games/StealCommand.java
+ com.doom.commands.commands.Games.StealCommand
+com/doom/commands/commands/Others/Hack.java
+ com.doom.commands.commands.Others.Hack
+com/doom/commands/commands/Others/PrivateSpamCommand.java
+ com.doom.commands.commands.Others.PrivateSpamCommand
+com/doom/commands/commands/Others/BugCommand.java
+ com.doom.commands.commands.Others.BugCommand
+com/doom/commands/commands/Others/SpamCommand.java
+ com.doom.commands.commands.Others.SpamCommand
+com/doom/commands/commands/Games/HangMan.java
+ com.doom.commands.commands.Games.HangMan
+com/doom/Bot.java
+ com.doom.Bot
+com/doom/commands/commands/Games/GuessNumberCommand.java
+ com.doom.commands.commands.Games.GuessNumberCommand
+com/doom/commands/commands/Money/BalanceCommand.java
+ com.doom.commands.commands.Money.BalanceCommand
+com/doom/commands/commands/Others/MuteCommand.java
+ com.doom.commands.commands.Others.MuteCommand
+com/doom/commands/commands/Others/HelpCommand.java
+ com.doom.commands.commands.Others.HelpCommand
+com/doom/Listener.java
+ com.doom.Listener
+com/doom/commands/commands/Info/AboutCommand.java
+ com.doom.commands.commands.Info.AboutCommand
+com/doom/CommandManager.java
+ com.doom.CommandManager
