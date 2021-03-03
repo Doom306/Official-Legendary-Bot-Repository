@@ -2,6 +2,8 @@
 
 You can only use this as educational use. If I notice someone (could be you) simply copy and pasting this not changing < 60% of it will be banned from using my projects and etc.
 
+If you want to use the code you `MUST` create a new `Pull Request` and `wait` until we `confirm` it.
+
 ## Version `6.0135`
 
 ### This is now the 6.0 version of Legendary Bot
