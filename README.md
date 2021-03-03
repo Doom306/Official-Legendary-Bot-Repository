@@ -8,7 +8,7 @@ If you want to use the code you `MUST` create a new `Pull Request` and `wait` un
 
 ### This is now the 6.0 version of Legendary Bot
 
-This is the `Legendary Bot 6.0` with simple but complex commands and different structure from `Legendary bot 5.0 (and below)` .
+This is the `Legendary Bot 6.0` with simple but complex commands and different structure from `Legendary bot 5.821 (and below)` .
 
 ```markdown
 Give credits to
